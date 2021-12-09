@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AS5600
+D 12-Bit Programmable Contactless, Hall, SO-8
+K Hall Effect Angle Sensor
+F https://www.st.com/resource/en/datasheet/stm8s001j3.pdf
+$ENDCMP
+#
+#End Doc Library
